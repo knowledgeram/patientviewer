@@ -158,7 +158,7 @@ function App() {
 
   return (
     <div className="App">
-      <p>Here are cases </p>
+      <p>Here are cases. Select one and then select condition code below. Once both are selected case is updated. Finally after all selection of cases and conditions you are done. </p>
       <ListCases parentCallback={handleCallback1}/>
       <br/>
 
